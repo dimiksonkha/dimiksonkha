@@ -1,4 +1,4 @@
-### Welcome, This is Sulaiman Haque Shifan 👋
+### Welcome, This is Sulaiman Haque! 👋
 ![](https://komarev.com/ghpvc/?username=dimiksonkha&color=brightgreen)
 
 
