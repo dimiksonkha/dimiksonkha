@@ -5,4 +5,3 @@
 - 👯 I’m looking to collaborate on Test Automation/Web Application Projects
 - 📫 How to reach me:
   send me an email to sulaiman.haque@gmail.com
--->
