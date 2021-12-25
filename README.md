@@ -1,5 +1,5 @@
 ### Welcome, This is Sulaiman Haque! 👋
-I am a software Enginner. I am from Bangladesh, living in Dhaka. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+I am software Enginner. I am from Bangladesh, living in Dhaka. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 - 🔭 <b>Currently working on:</b> TestCafe and Appium
 - 👯 Looking to collaborate on Test Automation/Web Application Projects
 - 🌱 <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms
