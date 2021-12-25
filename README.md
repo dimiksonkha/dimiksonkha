@@ -1,6 +1,4 @@
 ### Welcome, This is Sulaiman Haque! 👋
-![](https://komarev.com/ghpvc/?username=dimiksonkha&color=brightgreen)
-
 I am a software Enginner. I am from Bangladesh, living in Dhaka. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 ### Things you should know
@@ -11,7 +9,6 @@ I am a software Enginner. I am from Bangladesh, living in Dhaka. You can find me
 - 💬 <b>Ask me about:</b> Python, Java, Javascript
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:sulaiman.haque@gmail.com" target="_blank">sulaiman.haque@gmail.com</a>
   
-
 
 ## &#x1f4c8; GitHub Stats
 
@@ -40,3 +37,5 @@ I am a software Enginner. I am from Bangladesh, living in Dhaka. You can find me
 [1]: https://twitter.com/#
 [2]: https://github.com/dimiksonkha
 [3]: https://www.linkedin.com/in/sualaimanhaque/
+
+![](https://komarev.com/ghpvc/?username=dimiksonkha&color=brightgreen)
