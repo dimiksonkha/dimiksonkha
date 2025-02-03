@@ -1,6 +1,6 @@
 ### Welcome, This is Sulaiman Haque! 👋
 I am software Enginner. I am from Bangladesh, living in Dhaka. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-- 🔭 <b>Currently working on:</b> Cypress
+- 🔭 <b>Currently working on:</b> Playwright
 - 👯 Looking to collaborate on Test Automation/Web Application Projects
 - 🌱 <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms
 - 🤔 <b>Exploring:</b> Django Rest Framework
